@@ -1,0 +1,5 @@
+----------------------------------------------Text-Utils-------------------------------------------------------------
+
+its a react application
+start this application using the command in terminal -> npm start
+in this application, you can transform your text to lowercase/uppercase, copy text,..etc
